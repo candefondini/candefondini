@@ -30,6 +30,6 @@ También desarrollé un sistema de gestión en consola conectado a una base de d
 
 📧 candelafondini@gmail.com  
 📍 Argentina  
-🌐 [LinkedIn](www.linkedin.com/in/candela-martina-fondini-950b49373)
+🌐 [LinkedIn](https://www.linkedin.com/in/candela-martina-fondini-950b49373)
 
 

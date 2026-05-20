@@ -43,7 +43,11 @@ Web institucional desarrollada en **Next.js** con arquitectura escalable.
 
 ### Prompteador
 Herramienta de generación automática de prompts para producción de contenidos.  
-🔗 https://coso.ar/promptor/
+🔗 https://coso.ar/prompteador/
+
+### El Nido Domos
+Sistema automatizado de atención y reservas con integración entre **WhatsApp, Cloudbeds y n8n**.  
+🔗 https://w.me/2612527734
 
 ---
 
